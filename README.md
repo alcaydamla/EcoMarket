@@ -6,12 +6,12 @@ Bu sistem, **son kullanma tarihi yaklaşan ürünlerin indirimli fiyatlarla sat�
 ---
 
 ## Özellikler  
-✔️ Tarihi yaklaşan ürünler öncelikli olarak listelenir, böylece kullanıcılar ilk olarak bu ürünleri görebilir.
-✔️ Kullanıcıların indirimli ürünleri görüntüleyip satın alabilmesi
-✔️ Marketlerin indirimli ürünleri listeleyebilmesi
-✔️ Son kullanma tarihi yaklaşan ürünlerin indirimli satışa sunulması
-✔️ Kullanıcı girişi ve kimlik doğrulama
-✔️ PHP & MySQL ile dinamik ve güvenli bir yapı
+  ✔ Tarihi yaklaşan ürünler öncelikli olarak listelenir, böylece kullanıcılar ilk olarak bu ürünleri görebilir.
+  ✔ Kullanıcıların indirimli ürünleri görüntüleyip satın alabilmesi
+  ✔ Marketlerin indirimli ürünleri listeleyebilmesi
+  ✔ Son kullanma tarihi yaklaşan ürünlerin indirimli satışa sunulması
+  ✔ Kullanıcı girişi ve kimlik doğrulama
+  ✔ PHP & MySQL ile dinamik ve güvenli bir yapı
 
 ---
 
